@@ -9,7 +9,7 @@ href="https://kaw.wallenberg.org/">Knut and Alice Wallenberg
 Foundation</a> and hosted by <a href="https://www.it.uu.se">Uppsala
 University</a>.
 
-<img src="pics/areas.png" alt="UPDATE areas" width="50%"/>
+<img src="pics/areas.png" alt="UPDATE areas" width="50%" align="center"/>
 
 <!--
 <div class="home">
