@@ -2,7 +2,12 @@
 layout: default
 ---
 
-<a href="https://kaw.wallenberg.org/nasta-generations-system-uppdatering-av-inbyggd-programvara">UPDATE</a> is a five-year project funded by the <a href="https://kaw.wallenberg.org/">Knut and Alice Wallenberg Foundation</a> and hosted by Uppsala University.
+<a
+href="https://kaw.wallenberg.org/nasta-generations-system-uppdatering-av-inbyggd-programvara">UPDATE</a>
+is a five-year project funded by the <a
+href="https://kaw.wallenberg.org/">Knut and Alice Wallenberg
+Foundation</a> and hosted by <a href="https://www.it.uu.se">Uppsala
+University</a>.
 
 <!--
 <div class="home">
