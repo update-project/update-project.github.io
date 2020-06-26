@@ -1,2 +1,4 @@
 name: The UPDATE Project
 markdown: kramdown
+
+theme: jekyll-theme-modernist
