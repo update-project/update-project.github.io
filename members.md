@@ -4,4 +4,4 @@ title: Members
 permalink: /members/
 ---
 
-Members of the project are:
+The project is led by [Prof. Wang Yi](http://user.it.uu.se/~yi/)
