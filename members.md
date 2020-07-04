@@ -4,4 +4,4 @@ title: Members
 permalink: /members/
 ---
 
-tba
+Members of the project are:
