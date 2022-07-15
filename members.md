@@ -4,13 +4,13 @@ title: Members
 permalink: /members/
 ---
 
-The project is led by [Prof. Wang Yi](http://user.it.uu.se/~yi/)
+### Faculty 
 
-Other senior project members are: 
+[Wang Yi](http://user.it.uu.se/~yi/) (Project leader)
 
 [Bengt Jonsson](http://user.it.uu.se/~bengt/)
 
-[Philipp Ruemmer](http://www.philipp.ruemmer.org/)
+[Philipp Rümmer](http://www.philipp.ruemmer.org/)
 
 [Thiemo Voigt](https://scholar.google.se/citations?user=xSXvpjEAAAAJ&hl=sv) 
 
@@ -18,3 +18,6 @@ Other senior project members are:
 
 [Susanne Graf](https://www-verimag.imag.fr/~graf)
 
+### PhD students
+
+[Ahmed El Yaacoub](http://www.it.uu.se/katalog/ahmel421)
