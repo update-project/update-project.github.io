@@ -15,3 +15,6 @@ Other senior project members are:
 [Thiemo Voigt](https://scholar.google.se/citations?user=xSXvpjEAAAAJ&hl=sv) 
 
 [Luca Mottola](https://home.deib.polimi.it/mottola/)
+
+[Susanne Graf](https://www-verimag.imag.fr/~graf)
+
