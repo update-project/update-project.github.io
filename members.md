@@ -25,3 +25,5 @@ permalink: /members/
 ### Former Members
 
 Morteza Mohaqeqi
+
+Petros Voudouris
