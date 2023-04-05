@@ -21,3 +21,7 @@ permalink: /members/
 ### PhD students
 
 [Ahmed El Yaacoub](http://www.it.uu.se/katalog/ahmel421)
+
+### Former Members
+
+Morteza Mohaqeqi
