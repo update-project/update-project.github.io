@@ -6,6 +6,17 @@ permalink: /publications/
 
 # Papers of the UPDATE Project
 
+### 2023
+
+* Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations**. _Network and Distributed System Security Symposium (NDSS 2023)_, February 2023. ([@NDSS'2023][NDSS-2023-Info], [DOI][NDSS-2023-DOI], [PDF][NDSS-2023-PDF], [Artifact][NDSS-2023-Artifact])
+
+  [NDSS-2023-Info]: https://www.ndss-symposium.org/ndss-paper/automata-based-automated-detection-of-state-machine-bugs-in-protocol-implementations/
+  [NDSS-2023-DOI]: https://dx.doi.org/10.14722/ndss.2023.23068
+  [NDSS-2023-PDF]: https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s68_paper.pdf
+  [NDSS-2023-Artifact]: https://zenodo.org/record/7129240
+
+### 2022
+
 * Yimiao Sun, Weiguo Wang, Luca Mottola, Ruijin Wang, and Yuan He. AIM: Acoustic Inertial Measurement for Indoor Drone Localization and Tracking. In Proceedings of the 20th ACM International Conference on Embedded Networked Sensor Systems (SENSYS), Boston (MA, US), November 2022.
 * Weiguo Wang, Luca Mottola, Yuan He, Jinming Li, Yimiao Sun, Shuai Li, Hua Jing, and Yulei Wang. MicNest: Long-Range Instant Acoustic Localization of Drones in Precise Landing. In Proceedings of the 20th ACM International Conference on Embedded Networked Sensor Systems (SENSYS), Boston (MA, US), November 2022.
 * Ahmed El Yaacoub, Luca Mottola, Philipp Ruemmer, and Thiemo Voigt. NeRTA: Enabling Dynamic Software Updates in Mobile Robotics.  In Proceedings of the 19th ACM International Conference on Embedded Wireless Systems and Networks (EWSN), Linz (Austria), October 2022.
