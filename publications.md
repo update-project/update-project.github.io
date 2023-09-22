@@ -8,6 +8,12 @@ permalink: /publications/
 
 ### 2023
 
+* Ahmed El Yaacoub, Luca Mottola, Philipp Ruemmer, and Thiemo Voigt. **Timing Analysis of Embedded Software Updates**. In _Proceedings of the 29th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), Niigata (Japan)_, August 2023. _Best Paper Award_.
+
+* Ahmed El Yaacoub, Luca Mottola, Philipp Ruemmer, and Thiemo Voigt. **Scheduling Dynamic Software Updates in Mobile Robots**.  In _ACM Transactions on Embedded Computing Systems (TECS)_, September 2023. ([Accepted Version][NeRTA-TECS-2023-Just-Accepted])
+
+  [NeRTA-TECS-2023-Just-Accepted]: https://dl.acm.org/doi/10.1145/3623676
+
 * Paul Fiterau-Brostean, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Automata-Based Automated Detection of State Machine Bugs in Protocol Implementations**. _Network and Distributed System Security Symposium (NDSS 2023)_, February 2023. ([@NDSS'2023][NDSS-2023-Info], [DOI][NDSS-2023-DOI], [PDF][NDSS-2023-PDF], [Artifact][NDSS-2023-Artifact])
 
   [NDSS-2023-Info]: https://www.ndss-symposium.org/ndss-paper/automata-based-automated-detection-of-state-machine-bugs-in-protocol-implementations/
