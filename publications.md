@@ -21,7 +21,7 @@ permalink: /publications/
   [NDSS-2023-PDF]: https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s68_paper.pdf
   [NDSS-2023-Artifact]: https://zenodo.org/record/7129240
 
-* Sandip Ghosal, Bengt Jonsson, and Philipp Ruemmer. **An Active Learning Approach to Synthesizing Program Contracts**. _21st International Conference on Software Engineering and Formal Methods (SEFM 2023)_. To appear.
+- Sandip Ghosal, Bengt Jonsson, and Philipp Ruemmer. **An Active Learning Approach to Synthesizing Program Contracts**. _21st International Conference on Software Engineering and Formal Methods (SEFM 2023)_. LNCS 14323, pp. 126-144. November 2023. ([DOI](https://doi.org/10.1007/978-3-031-47115-5_8))
 
 ### 2022
 
