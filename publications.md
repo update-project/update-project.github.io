@@ -6,6 +6,16 @@ permalink: /publications/
 
 # Papers of the UPDATE Project
 
+### 2025
+
+* Susanne Graf, Bengt Jonsson, Behnam Khodabandeloo, Chengzi Huang, Nikolaus Huber, Philipp Rümmer, and Wang Yi. **Timing is All You Need**. The Combined Power of Research, Education, and Dissemination - Essays Dedicated to Tiziana Margaria on the Occasion of Her 60th Birthday. Volume 15240 in LNCS, pages 259-279, Springer 2025, ([DOI](https://link.springer.com/chapter/10.1007/978-3-031-73751-0_8))
+
+### 2024
+
+* Simon Dierl, Paul Fiterau-Brostean, Falk Howar, Bengt Jonsson, Konstantinos Sagonas, and Fredrik Tåquist. **Scalable Tree-based Register Automata Learning**. _30th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2024)_. Volume 14571 in LNCS, pages 87-108, April 2024. Best Paper Award. ([DOI](https://doi.org/10.1007/978-3-031-57249-4_5),[Preprint with Proofs](https://arxiv.org/abs/2401.14324), [Artifact][TACAS-2024-Artifact]) 
+
+  [TACAS-2024-Artifact]: https://doi.org/10.5281/zenodo.10442556
+
 ### 2023
 
 * Ahmed El Yaacoub, Luca Mottola, Philipp Ruemmer, and Thiemo Voigt. **Scheduling Dynamic Software Updates in Mobile Robots**.  In _ACM Transactions on Embedded Computing Systems (TECS)_, September 2023. ([Accepted Version][NeRTA-TECS-2023-Just-Accepted])
