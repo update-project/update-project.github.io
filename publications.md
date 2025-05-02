@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### 2025
 
-* Susanne Graf, Bengt Jonsson, Behnam Khodabandeloo, Chengzi Huang, Nikolaus Huber, Philipp Rümmer, and Wang Yi. **Timing is All You Need**. The Combined Power of Research, Education, and Dissemination - Essays Dedicated to Tiziana Margaria on the Occasion of Her 60th Birthday. Volume 15240 in LNCS, pages 259-279, Springer 2025, ([DOI](https://link.springer.com/chapter/10.1007/978-3-031-73751-0_8))
+* Susanne Graf, Bengt Jonsson, Behnam Khodabandeloo, Chengzi Huang, Nikolaus Huber, Philipp Rümmer, and Wang Yi. **Timing is All You Need**. The Combined Power of Research, Education, and Dissemination - Essays Dedicated to Tiziana Margaria on the Occasion of Her 60th Birthday. Volume 15240 in LNCS, pages 259-279, Springer 2025, ([DOI](https://link.springer.com/chapter/10.1007/978-3-031-73887-6_18))
 
 ### 2024
 
